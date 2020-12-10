@@ -12,30 +12,30 @@
 
 - 🔭&nbsp; &nbsp;  I’m currently in Mod 4 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; &nbsp; Most Recent Project: [Bangwords](https://greymatteor.github.io/lobby)
-- :book:&nbsp; &nbsp; Currently Learning: [Legacy Open Source FE/BE Collaboration](https://github.com/atulmy/crate)
+- :book:&nbsp; &nbsp; Currently Learning: [Legacy Open Source FE/BE Collaboration](https://github.com/GreyMatteOr/Crate)
 - :computer:&nbsp; &nbsp; On the side: [Puzzlooza](https://greymatteor.github.io/puzzlooza-ui/)
-- :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
+- :thinking:&nbsp; &nbsp; What I want to learn next: How to make a living making games? (would love any insight!)
+- :white_check_mark:&nbsp; &nbsp; Check out: this awesome [Tic-Tac-To AI](https://greymatteor.github.io/Tic-Attack-Toe/) I made!
 - :keyboard:&nbsp; &nbsp;  Ask Me About: The [npm package](https://www.npmjs.com/package/gdate) I wrote!
 
 ---
 
 ### Technologies:
 <div align="center">
-  <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="html-5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%231572B6.svg?&style=for-the-badge&logo=postgreSQL&logoColor=%2f6792" />
   <img alt="Atom" src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=%23EFF7FF" />
+  <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%231572B6.svg?&style=for-the-badge&logo=postgreSQL&logoColor=%2f6792" />
+  <img alt="html-5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
+  <img alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
 </div>
 
 ### Packages:
 <div align="center">
     <p>
       <a href="https://www.npmjs.com/package/axios">Axios</a>,  &nbsp;
-      <a href="https://www.npmjs.com/package/express">Express</a>,  &nbsp;
       <a href="https://www.npmjs.com/package/mocha">Mocha </a>/
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
       <a href="https://jestjs.io/en/">Jest</a>, &nbsp;
