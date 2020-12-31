@@ -12,7 +12,7 @@
 
 - 🔭&nbsp; &nbsp;  I’m currently in Mod 4 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; &nbsp; Most Recent Project: [Legacy Open Source FE/BE Collaboration](https://github.com/GreyMatteOr/Crate)
-- :book:&nbsp; &nbsp; Currently Learning: [A geo-proximate social platform](https://github.com/GreyMatteOr/saturnd-earth-client)
+- :book:&nbsp; &nbsp; Currently Learning: [A geo-proximate social platform](https://github.com/Saturnd-Earth/se-fe)
 - :computer:&nbsp; &nbsp; On the side: [Puzzlooza](https://greymatteor.github.io/puzzlooza-ui/), a live-interactive jigsaw puzzle!
 - :christmas_tree:&nbsp; &nbsp; Staying Sharp with: [Advent of Code](https://adventofcode.com) day 12 p1
 - :thinking:&nbsp; &nbsp; What I want to learn next: How to make a living making games? (would love any insight!)
