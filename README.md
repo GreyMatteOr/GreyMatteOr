@@ -14,7 +14,7 @@
 - :fire:&nbsp; &nbsp; Most Recent Project: [Legacy Open Source FE/BE Collaboration](https://github.com/GreyMatteOr/Crate)
 - :book:&nbsp; &nbsp; Currently Learning: [A geo-proximate social platform](https://github.com/Saturnd-Earth/se-fe)
 - :computer:&nbsp; &nbsp; On the side: [Puzzlooza](https://greymatteor.github.io/puzzlooza-ui/), a live-interactive jigsaw puzzle!
-- :fork_and_knife:&nbsp; &nbsp; Staying Sharp with: [Learning Ruby on CodeWards](https://www.codewars.com/users/GreyMatteOr)
+- :fork_and_knife:&nbsp; &nbsp; Staying Sharp with: [Learning Ruby on CodeWars](https://www.codewars.com/users/GreyMatteOr)
 - :thinking:&nbsp; &nbsp; What I want to learn next: How to make a living making games? (would love any insight!)
 - :white_check_mark:&nbsp; &nbsp; Check out: this awesome [Tic-Tac-To AI](https://greymatteor.github.io/Tic-Attack-Toe/) I made!
 - :keyboard:&nbsp; &nbsp;  Ask Me About: The [npm package](https://www.npmjs.com/package/gdate) I wrote!
