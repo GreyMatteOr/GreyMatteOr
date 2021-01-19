@@ -23,9 +23,9 @@
 
 ### Technologies:
 <div align="center">
-  <img alt="Atom" src="https://img.shields.io/badge/atom%20-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=%23EFF7FF" />
   <img alt="CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%231572B6.svg?&style=for-the-badge&logo=postgreSQL&logoColor=%2f6792" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=%23E10098" />
   <img alt="html-5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
   <img alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
