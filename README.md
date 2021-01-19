@@ -11,8 +11,8 @@
 ---   
 
 - 🔭&nbsp; &nbsp;  I’m currently in Mod 4 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :fire:&nbsp; &nbsp; Most Recent Project: [Legacy Open Source FE/BE Collaboration](https://github.com/GreyMatteOr/Crate)
-- :book:&nbsp; &nbsp; Currently Learning: [A geo-proximate social platform](https://github.com/Saturnd-Earth/se-fe)
+- :fire:&nbsp; &nbsp; Most Recent Project: [A geo-proximate social platform](https://saturnd-earth.github.io/se-fe/)
+- :book:&nbsp; &nbsp; Currently Learning: [AWS](https://www.pluralsight.com/courses/aws-certified-cloud-practitioner)
 - :computer:&nbsp; &nbsp; On the side: [Puzzlooza](https://greymatteor.github.io/puzzlooza-ui/), a live-interactive jigsaw puzzle!
 - :fork_and_knife:&nbsp; &nbsp; Staying Sharp with: [Learning Ruby on CodeWars](https://www.codewars.com/users/GreyMatteOr)
 - :thinking:&nbsp; &nbsp; What I want to learn next: How to make a living making games? (would love any insight!)
