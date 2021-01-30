@@ -10,7 +10,7 @@
 
 ---   
 
-- 🔭&nbsp; &nbsp;  I’m currently in Mod 4 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
+- 🔭&nbsp; &nbsp; I graduated from [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; &nbsp; Most Recent Project: [A geo-proximate social platform](https://saturnd-earth.github.io/se-fe/)
 - :book:&nbsp; &nbsp; Currently Learning: [AWS](https://www.pluralsight.com/courses/aws-certified-cloud-practitioner)
 - :computer:&nbsp; &nbsp; On the side: [Puzzlooza](https://greymatteor.github.io/puzzlooza-ui/), a live-interactive jigsaw puzzle!
