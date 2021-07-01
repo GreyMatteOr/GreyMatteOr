@@ -9,12 +9,12 @@
 </div>
 
 ---   
-
+- 📎&nbsp; &nbsp; I currently work remotely as a Front End Dev at [NinjaCat](https://ninjacat.io/)
 - 🔭&nbsp; &nbsp; I graduated from [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; &nbsp; Most Recent Project: [A geo-proximate social platform](https://saturnd-earth.github.io/se-fe/)
 - :book:&nbsp; &nbsp; Currently Learning: [AWS](https://www.pluralsight.com/courses/aws-certified-cloud-practitioner)
 - :computer:&nbsp; &nbsp; On the side: [Puzzlooza](https://greymatteor.github.io/puzzlooza-ui/), a live-interactive jigsaw puzzle!
-- :fork_and_knife:&nbsp; &nbsp; Staying Sharp with: [Learning Ruby on CodeWars](https://www.codewars.com/users/GreyMatteOr)
+- :fork_and_knife:&nbsp; &nbsp; Staying Sharp with: [Deep-Diving NodeJS](https://app.pluralsight.com/library/courses/nodejs-advanced/table-of-contents)
 - :thinking:&nbsp; &nbsp; What I want to learn next: How to make a living making games? (would love any insight!)
 - :white_check_mark:&nbsp; &nbsp; Check out: this awesome [Tic-Tac-To AI](https://greymatteor.github.io/Tic-Attack-Toe/) I made!
 - :keyboard:&nbsp; &nbsp;  Ask Me About: The [npm package](https://www.npmjs.com/package/gdate) I wrote!
@@ -31,6 +31,7 @@
   <img alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
+  <img alt="VueJS" src="https://img.shields.io/badge/VueJS%20-%23527294.svg?&style=for-the-badge&logo=Vue.js&logoColor=%234FC08D" />
 </div>
 
 ### Packages:
